@@ -1,0 +1,4 @@
+This product includes software developed at Prismic (https://prismic.io).
+
+Modifications:
+- Adapted the original Next.js adapter code to work with Gatsby.
